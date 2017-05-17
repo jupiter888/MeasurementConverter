@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MeasurementConverter</string>
+    <string name="milesTVstring">Miles</string>
+    <string name="conversionTVstring">Conversion</string>
+    <string name="convertToString">Convert To</string>
+    <string name="convertFromString">Convert From</string>
+    <string-array name="conversions">
+        <item>M to Km</item>
+        <item>Km to M</item>
+        <item>In to Cm</item>
+        <item>Cm to In</item>
+    </string-array>
+</resources>
